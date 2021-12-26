@@ -39,3 +39,5 @@ Chapter 17 Overview: https://miro.com/app/board/uXjVOdLq1QE=/?moveToWidget=34587
 Chapter 18 Overview: https://miro.com/app/board/uXjVOdLq1QE=/?moveToWidget=3458764515713699392&cot=14
 
 Chapter 19 Overview: https://miro.com/app/board/uXjVOdLq1QE=/?moveToWidget=3458764515727417606&cot=14
+
+Chapter 20 Overview: https://miro.com/app/board/uXjVOdLq1QE=/?moveToWidget=3458764515739263460&cot=14
